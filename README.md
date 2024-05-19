@@ -1,4 +1,4 @@
-# ConsolePassGen
+# ConsolePassGen <sup>v0.2.0</sup>
 
 ***
 
@@ -7,16 +7,6 @@
 ***
 
 Author and developer: ___A.A Suvorov___
-
-***
-
-## Images:
-
-![logo](https://github.com/smartlegionlab/ConsolePassGen/raw/master/data/images/ConsolePassGen.png)
-
-***
-
-> Download: [ConsolePassGen](https://github.com/smartlegionlab/ConsolePassGen/releases/download/v0.1.0/ConsolePassGen.zip);
 
 ***
 
@@ -45,6 +35,6 @@ Author and developer: ___A.A Suvorov___
     --------------------------------------------------------
     Licensed under the terms of the BSD 3-Clause License
     (see LICENSE for details).
-    Copyright © 2018-2024, A.A Suvorov
+    Copyright © 2018-2024, A.A. Suvorov
     All rights reserved.
     --------------------------------------------------------
