@@ -10,6 +10,16 @@ Author and developer: ___A.A. Suvorov___
 
 ***
 
+## Images:
+
+![logo](https://github.com/smartlegionlab/ConsolePassGen/raw/master/data/images/ConsolePassGen.png)
+
+***
+
+> Download: [ConsolePassGen](https://github.com/smartlegionlab/ConsolePassGen/releases/download/v0.1.0/ConsolePassGen.zip);
+
+***
+
 ## Requirements:
 
 [.NET 8.0](https://aka.ms/dotnet-core-applaunch?missing_runtime=true&arch=x64&rid=win-x64&os=win10&apphost_version=8.0.1)
